@@ -1,1 +1,3 @@
 Conflict test from A
+conflict test from B
+
